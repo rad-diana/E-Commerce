@@ -33,7 +33,7 @@ The following metrics are used to evaluate the results:
 1. **Most Returned Products**: Top return-risk products are:
   - PAPER CRAFT, LITTLE BIRDIE – 80,995 units, 100% return rate
   - MEDIUM CERAMIC TOP STORAGE JAR – 74,494 units, 95.5% return rate
-  - ROTATING SILVER ANGELS T-LIGHT HLDR – 9,376 units, 98.9% return rate
+  - ROTATING SILVER ANGELS T-LIGHT HLDR – 9,376 units, 98.9% return rate  
 These items fail frequently and in high volume, suggesting priority for review.
 2. **Revenue from UK Customers**:
   - Weekly: Sales are consistent, with a slight upward trend in later weeks.
